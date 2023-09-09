@@ -1,6 +1,7 @@
+```mermaid
 graph TD;
-mrd(Mermaid) --> dgm(Diagram) --> b;
-a --> b & dgm;
-b(Berlin);
-a(Arsenal);
-x((X))
+docker --> gitea --> drone;
+docker(install Docker);
+gitea(create gitea container);
+drone(create Drone container);
+```
