@@ -1,7 +1,8 @@
 # learn-it-dev-with-diagrams
 Learn IT development with diagrams.
+Here you can find diagrammed instructions of various operations performed in order to develop IT applications.
 
-
+These instructions are primarily intended for beginners. That is why I chose diagrams.
 
 
 # License
