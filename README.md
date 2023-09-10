@@ -27,7 +27,7 @@ graph TD;
     style D fill:#9FE2BF
 ```
 
-You are welcome to contribute by finding a question in the issues section you have answer to. You pull request and I'll merge.
+You are welcome to contribute by finding a question in the issues section you have answer to. You do pull-requests and I'll merge.
 
 
 # License
