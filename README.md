@@ -2,7 +2,20 @@
 Learn IT development with diagrams.
 Here you can find diagrammed instructions of various operations performed in order to develop IT applications.
 
-These instructions are primarily intended for beginners. That is why I chose diagrams.
+These instructions are primarily intended for beginners. That is why I chose diagrams. They are of mermaid diagrams and look like this:
+```mermaid
+graph TD;
+    A-->B-->C-->D;
+    A-->E-->F-->G;
+
+    A(A novice encountered difficulty in development);
+    B(The novice see a diagram);
+    C(The novice quickly understands the principle);
+    D(The novice solves the issue);
+    E(The novice searches the internet);
+    F(It takes a lot of time to find a solution);
+    G(The solution doesn't sovle the issue);
+```
 
 You are welcome to contribute by finding a question in the issues section you have answer to. You pull request and I'll merge.
 
