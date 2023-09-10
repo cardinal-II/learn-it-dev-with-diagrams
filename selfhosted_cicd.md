@@ -2,7 +2,7 @@
 graph TD;
 laptop-->linux-->docker --> gitea -->setup_gitea --> drone;
 linux-->m_local_repo-->push
-setup_gitea-->push
+setup_gitea-->push --> drone
 
 
 docker(install Docker);
