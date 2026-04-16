@@ -20,7 +20,7 @@ graph TD;
     B(The novice see a diagram);
     C(The novice quickly understands the principle);
     D(The novice solves the issue);
-    E(The novice searches the internet);
+    E(The novice searches the internet, reads books);
     F(It takes a lot of time to find a solution);
     G(The solution doesn't sovle the issue);
 
